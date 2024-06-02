@@ -1,4 +1,4 @@
-# AIML-Project:
+# AIML-Project :
  Project Name : OLA - Driver Sustain  Ensemble
 
 # Introduction (Problem Statement) :
@@ -15,23 +15,23 @@
  You are working as a Data Scientist with the Analytics Department of Ola, focused on driver team
  attrition. You are provided with the monthly information for a segment of drivers for 2019 and
  2020 and tasked to predict whether a driver will be leaving the company or not based on their
- attributes like:
+ attributes like :
  
  Demographics (city, age, gender etc.)
  Tenure information (joining date, Last Date)
  Historical data regarding the performance of the driver (Quarterly rating, Monthly business
  acquired, grade, Income)
 
- # Dataset:
+ # Dataset :
 ola_driver.csv
 
-# Concepts Tested:
-Expolatory Data Analysis
-Feature Engineering
-Ensemble Learning- Bagging
-Ensemble Learning- Boosting
-KNN Imputation of Missing Values
-Working with an imbalanced dataset
+# Concepts Tested :
+1. Expolatory Data Analysis
+2. Feature Engineering
+3. Ensemble Learning- Bagging
+4. Ensemble Learning- Boosting
+5. KNN Imputation of Missing Values
+6. Working with an imbalanced dataset
 
  # Results :
  
