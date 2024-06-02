@@ -26,7 +26,8 @@
 ola_driver.csv
 
 # Concepts Tested:
-
+Expolatory Data Analysis
+Feature Engineering
 Ensemble Learning- Bagging
 Ensemble Learning- Boosting
 KNN Imputation of Missing Values
