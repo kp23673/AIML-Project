@@ -1,7 +1,7 @@
 # AIML-Project :
  Project Name : OLA - Driver Sustain  Ensemble
 
-# Introduction (Problem Statement) :
+# Introduction :
  OLA is leading transportation industry. Reducing drivers is seen by industry observers as a tough
  battle for Ola. Churn among drivers is high and it’s very easy for drivers to stop working for the
  service on the fly or jump to other transportation services depending on the rates.
